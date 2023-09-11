@@ -1,0 +1,32 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: 350px;
+    margin: 16px auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.main-container {
+    border: 2px solid black;
+    padding: 8px;
+    background-color: yellow;
+    border-radius: 8px;
+}
+
+.sub-container {
+    margin: 8px;
+}
+
+.title {
+    margin-left: 20px;
+}
+img {
+    border: 1px solid black;
+    text-align: center;
+    height: auto;
+    width: 315px;
+    border-radius: 8px;
+}
